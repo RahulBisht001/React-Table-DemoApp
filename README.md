@@ -1,4 +1,4 @@
-## React Table
+# React Table
 
 * This is a Learning Repository.
 * I am Learning How to Use React Table Effectively.
